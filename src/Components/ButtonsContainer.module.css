@@ -1,0 +1,22 @@
+.buttonsContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  border-radius: 10px;
+  background-color: rgb(41, 114, 23);
+}
+
+.button {
+  border: none;
+  width: 45px;
+  height: 45px;
+  margin: 3px;
+  border-radius: 10px;
+  font-size: 20px;
+  color: blue;
+  background-color: darkkhaki;
+}
+
+.buttonName {
+  color: blueviolet;
+}

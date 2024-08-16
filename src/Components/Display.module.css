@@ -1,0 +1,8 @@
+.display {
+  border: 1px solid rgb(33, 18, 243);
+  margin: 10px;
+  width: 175px;
+  font-size: 29px;
+  border-radius: 10px;
+  color: blue;
+}
